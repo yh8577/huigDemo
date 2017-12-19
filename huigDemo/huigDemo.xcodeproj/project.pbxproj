@@ -526,6 +526,7 @@
 				A656E29E1FE911A200943E81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A656E29F1FE911A200943E81 /* Build configuration list for PBXNativeTarget "huigDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +535,7 @@
 				A656E2A11FE911A200943E81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A656E2A21FE911A200943E81 /* Build configuration list for PBXNativeTarget "huigDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +544,7 @@
 				A656E2A41FE911A200943E81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
